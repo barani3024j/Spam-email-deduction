@@ -28,7 +28,7 @@
 
    ```bash
    git clone https://github.com/yourusername/h-spam-classifier.git
-   cd h-spam-classifier
+   cd Spam-email-deduction
    ```
 
 2. Create and activate virtual environment:
@@ -60,7 +60,7 @@ You’ll be presented with a menu like:
 
 ```
 ==================================
- Welcome to the H@r!n! Spam Classifier!
+ Welcome to the Spam-email-deduction!
 ==================================
 1. Classify a custom email message
 2. View model performance (Accuracy and Report)
@@ -76,7 +76,7 @@ Enter your choice (1/2/3/4/5):
 ## 📁 Project Structure
 
 ```
-H-Spam-Classifier/
+Spam-email-deduction/
 │
 ├── data/                   # Dataset files
 ├── models/                 # Saved models
